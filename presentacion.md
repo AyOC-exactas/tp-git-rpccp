@@ -1,6 +1,7 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
 
-En mi tiempo libre me gusta...
+> Hola! Mi nombre es Rocco Gasparini!
 
-Mi instrucción favorita del manual de intel es...
+En mi tiempo libre me gusta ver **series**, **películas** y **aprender cosas nuevas**!
+
+Mi instrucción favorita del manual de intel es `mov`
